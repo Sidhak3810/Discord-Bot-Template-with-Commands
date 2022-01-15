@@ -1,3 +1,10 @@
+# Please consider viewing the [license](https://github.com/Sidhak3810/Discord-Bot-Template-with-Commands/blob/main/LICENSE)
+
+
+
+
+
+
 # Discord.py bot with commands extension
 
 Basic template for a discord bot with the commands extension and [cogs](https://discordpy.readthedocs.io/en/latest/ext/commands/cogs.html)
