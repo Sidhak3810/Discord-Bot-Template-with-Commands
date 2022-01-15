@@ -1,4 +1,4 @@
-# Discord.py bot with commands extension
+# Discord.py bot with commands
 
 Basic template for a discord bot with the commands extension and [cogs](https://discordpy.readthedocs.io/en/latest/ext/commands/cogs.html)
 
