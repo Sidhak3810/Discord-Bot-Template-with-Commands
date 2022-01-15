@@ -1,4 +1,4 @@
-# Please consider viewing the [license](https://github.com/Sidhak3810/Discord-Bot-Template-with-Commands/blob/main/LICENSE)
+# Please consider viewing the [license](https://github.com/Sidhak3810/Discord-Bot-Template-with-Commands/blob/main/LICENSE) before use.
 
 
 
